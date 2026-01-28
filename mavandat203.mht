@@ -1,0 +1,257 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://raw.githubusercontent.com/vinh12eqweaws/zingmod/refs/heads/main/zingmod
+Subject: 
+Date: Wed, 28 Jan 2026 12:42:59 +0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--5NFQgSfyQ634la0im9pdSIStsqy1dks40cJA7Fvxx1----"
+
+
+------MultipartBoundary--5NFQgSfyQ634la0im9pdSIStsqy1dks40cJA7Fvxx1----
+Content-Type: text/html
+Content-ID: <frame-30CE6105F48D5664C96B4032708E6076@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://raw.githubusercontent.com/vinh12eqweaws/zingmod/refs/heads/main/zingmod
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><meta name=3D"color-scheme" content=3D"light dark"></head><body><=
+pre style=3D"word-wrap: break-word; white-space: pre-wrap;">local OrionLib =
+=3D loadstring(game:HttpGet(('https://raw.githubusercontent.com/vinh12eqwea=
+ws/zingmods/refs/heads/main/zingpro')))()
+
+local Window =3D OrionLib:MakeWindow({Name =3D "mavandat203", HidePremium =3D f=
+alse, SaveConfig =3D true, ConfigFolder =3D "dxl_bf"})
+
+local Tab =3D Window:MakeTab({
+	Name =3D "Scripts M=E1=BB=9Bi",
+	Icon =3D "rbxassetid://4483345998",
+	PremiumOnly =3D false
+})
+
+local Tab2 =3D Window:MakeTab({
+	Name =3D "mavandat203",
+	Icon =3D "rbxassetid://4483345998",
+	PremiumOnly =3D false
+})
+
+local Tab3 =3D Window:MakeTab({
+	Name =3D "Mod Game",
+	Icon =3D "rbxassetid://4483345998",
+	PremiumOnly =3D false
+})
+local Tab4 =3D Window:MakeTab({
+	Name =3D "Script C=C5=A9",
+	Icon =3D "rbxassetid://4483345998",
+	PremiumOnly =3D false
+})
+Tab3:AddButton({
+	Name =3D "RTX",
+	Callback =3D function()
+        repeat wait(5) until game:IsLoaded()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/mavandat2025-ai/FLY-GUI-BY-T/refs/heads/main/FlyGuiV3.txt"))()
+end
+})
+
+Tab3:AddButton({
+	Name =3D "Fix Lag",
+	Callback =3D function()
+        repeat wait(5) until game:IsLoaded()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/=
+Script/main/FixLag.lua"))()
+end
+})
+
+Tab3:AddButton({
+	Name =3D "Anti Kick",
+	Callback =3D function()
+        repeat wait(5) until game:IsLoaded()
+     loadstring(game:HttpGet("https://pastebin.com/raw/FPfaukXN"))()
+end
+})
+Tab3:AddButton({
+	Name =3D "Farm Nhanh",
+	Callback =3D function()
+        repeat wait(5) until game:IsLoaded()
+        loadstring(game:HttpGet("https://api.realaya.xyz/v1/files/l/73mkp0a=
+qyfo4ypy8hvl0nz10lq49fey5.lua"))()
+end
+})
+
+
+Tab2:AddButton({
+	Name =3D "Fruit Finder",
+	Callback =3D function()
+        repeat wait(5) until game:IsLoaded()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/AdminusG=
+ames/Blox_Fruits_Sniper/main/.lua'))()
+  	end   =20
+})
+
+Tab2:AddButton({
+	Name =3D "Arceus X",
+	Callback =3D function()
+        repeat wait(5) until game:IsLoaded()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub=
+/chillz-workshop/main/Arceus%20X%20V3"))()
+end
+})
+
+Tab2:AddButton({
+	Name =3D "Krnl",
+	Callback =3D function()
+        repeat wait(5) until game:IsLoaded()
+      loadstring(game:HttpGet("https://pastebin.com/raw/M3HjLPU7"))()
+end
+})
+
+Tab2:AddButton({
+	Name =3D "Synapse X",
+	Callback =3D function()
+        repeat wait(5) until game:IsLoaded()
+      loadstring(game:HttpGet("https://pastebin.com/raw/QmqSgQ3K"))()
+end
+})
+
+Tab2:AddButton({
+	Name =3D "Keyboard",
+	Callback =3D function()
+        repeat wait(5) until game:IsLoaded()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjj=
+dhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+end
+})
+
+Tab:AddButton({
+	Name =3D "NEW: Alchemy",
+	Callback =3D function()
+       loadstring(game:HttpGet("https://scripts.alchemyhub.xyz"))()
+  	end   =20
+})
+Tab:AddButton({
+	Name =3D "NEW: Banana",
+	Callback =3D function()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptRUs/B=
+ananaHub/main/BananaHub.lua"))()
+  	end   =20
+})
+Tab:AddButton({
+	Name =3D "NEW: BLUE X",
+	Callback =3D function()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/=
+BlueX-Hub/refs/heads/main/EN.lua"))()
+  	end   =20
+})
+
+Tab:AddButton({
+	Name =3D "Chests Farm",
+	Callback =3D function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/NickelHU=
+BB/SonicTuru/main/ChestFarmOp"))()
+end   =20
+})
+
+
+Tab4:AddButton({
+	Name =3D "Domadic Hub",
+	Callback =3D function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Domadico=
+of/Domadicoof/main/Domadichub/NottoGay/Start.ranscript"))()
+  	end   =20
+})
+
+Tab4:AddButton({
+	Name =3D "FTS X Hub!",
+	Callback =3D function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/tufreesc=
+ript/FTS-X-Hub/main/FTSXHUB%20V1'))()
+  	end   =20
+})
+
+Tab4:AddButton({
+	Name =3D "T7GFY GUI",
+	Callback =3D function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/minded10=
+2/dokinbog/main/README.md", true))()
+  	end   =20
+})
+
+Tab4:AddButton({
+	Name =3D "CFrame Hub",
+	Callback =3D function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Steveee1=
+1/Scripts/main/Blox%20Fruits%20OP%20Script"))()
+  	end   =20
+})
+
+Tab4:AddButton({
+	Name =3D "Flare Hub",
+	Callback =3D function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/co=
+mmunity/master/flares"))()
+  	end   =20
+})
+
+Tab4:AddButton({
+	Name =3D "BLCK Hub",
+	Callback =3D function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/co=
+mmunity/main/BLCK"))()
+  	end   =20
+})
+
+Tab4:AddButton({
+	Name =3D "Modz HUb",
+	Callback =3D function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/co=
+mmunity/master/modz"))()
+  	end   =20
+})
+
+Tab4:AddButton({
+	Name =3D "Hoho Hub",
+	Callback =3D function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/=
+HOHO_H/main/Loading_UI'))()
+  	end   =20
+})
+
+Tab4:AddButton({
+	Name =3D "Lol Hub",
+	Callback =3D function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/co=
+mmunity/main/neon"))()
+  	end   =20
+})
+
+Tab4:AddButton({
+	Name =3D "Zen Hub",
+	Callback =3D function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/sofziol1fe/Script/refs/heads/main/main.luau"))()
+  	end   =20
+})
+
+Tab4:AddButton({
+	Name =3D "Uranium/Switch Hub",
+	Callback =3D function()
+        repeat task.wait() until game:IsLoaded() and game.Players.LocalPlayer
+loadstring(game:HttpGet("https://github.com/LeafHubAcademy/LeafHub/raw/refs/heads/main/Leaf.lua"))()
+  	end   =20
+})
+
+
+Tab4:AddButton({
+	Name =3D "Thunder Z",
+	Callback =3D function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/MEOW-HUB-DEV/SCRIPT-FREE/refs/heads/main/MeowKaitun.lua"))()
+  	end   =20
+})
+
+Tab4:AddButton({
+	Name =3D "Mukuro Hub",
+	Callback =3D function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/mavandat2025-ai/FLY-BY-T/refs/heads/main/FlyGuiV3.txt"))()
+  	end   =20
+})
+</pre></body></html>
+------MultipartBoundary--5NFQgSfyQ634la0im9pdSIStsqy1dks40cJA7Fvxx1------
